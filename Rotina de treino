@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale= 1.0">
+  <me name="description" content="este site mostra a rotina de treinos do lipqueni oliveira macalo vizando melhorar o seu port fisicoe e memtal que já esta bwm acavado por sinal">
+  <title>rotina de treinos do Lio</title>
+</head>
+<body>
+  <h1>  A minha rotina de treinos    </h1>
+  <p> esta pequena pagina web seve co um exercicio das minhas abilidades como desenvolvedor web front-end mad o mwu sonho é ser full-steak por enqianto vou me contentar com isso ,<br><b>voltalando devolta ao tema primcipal</b> a minha rotima de exercicios visa melhorias no mei corpo em um curto periodo de tempo9 </p>
+  
+  <h2>Segunda - Peito e Tríceps</h2>
+  <p>Flexões tradicionais: 4x até a falha
+    <img src="flexoes-tradicionais-01.png" width="123">
+   <br>Flexões diamante: 4x até a falha
+ 
+      <img src="EX005.jpg" width="120" height="60">
+    <br>Dips improvisados (entre cadeiras ou apoios): 4x10
+      <img src="">
+    <br>Supino com blocos: 4x12
+        <img src="shutterstocklio-putra-orig-1.jpg"width="123" height="60" alt="">
+    <br>Tríceps testa com blocos: 4x12</p>
+        <img src="" width="" height="" alt="">
+  
+  <h3>Terça - Costas e Bíceps</h3>
+  <p>
+    <br>Remada com blocos: 4x10 
+    <img
+    <br>Barra fixa improvisada (se possível): 4x até a falha<br>
+      <img
+    <br>Rosca direta com blocos: 4x12  
+        <img
+    <br>Rosca martelo com blocos: 4x12</p>
+        <img
+  
+  <h4>Quarta - Pernas e Abdômen</h4>
+  <p>Agachamento com blocos: 4x12
+    <img
+    <br>Avanço segurando blocos: 4x12
+    <img
+    <br>Panturrilha em degrau: 4x15
+      <img
+    <br>Abdominal infra: 4x até a falha
+        <img
+Prancha: 3x30s</p>
+  <h5>Quinta - Ombro e Trapézio</h5>
+  <p>Elevação lateral com blocos: 4x12
+
+    <br>Desenvolvimento com blocos: 4x10
+
+    <br>Encolhimento de ombros com blocos: 4x12
+
+    <br>Flexão pike (ombros): 4x até a falha
+</p>
+  <h6>Sexta - Full Body (Corpo todo)</h6>
+  <p>Circuito com os melhores exercícios da semana</p>
+       
+    </a>
+          <table border="10%" style="text-align=centet;">
+    <tr>
+      <th>Animes</th>
+      <th>filmes</th>
+      <th>idades</th>
+      <th>novelas</th>
+    </tr>
+    <tr>
+      <td>Naruto</td>
+      <td>Duro de matar</td>
+      <td>9 anos</td>
+      <td>Oque a vida me roubou</td>
+    </tr>
+    <tr>
+      <td>Jujutsu kaisen</td>
+      <td>O jogo</td>
+      <td>12anos</td>
+      <td>amor eterno</td>
+    </tr>
+            
+  </table>
+      <ol>
+           
+      </ol>
+
+      <a href="http://GoAurKWMfDlHOT4:3errF1IIbKb8EZg@localhost:50641/storage/emulated/0/programa/arroz.html" target="_blank">  voltar a pg inicial</a>
+</body>
+</html>
